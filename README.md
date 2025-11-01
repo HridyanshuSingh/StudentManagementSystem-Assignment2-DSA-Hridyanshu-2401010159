@@ -1,7 +1,6 @@
 Assignment 2 DSA
 
-🎓 Student Management System
-📘 Overview
+# 🎓 Student Management System (Python)
 
 A simple Python-based Student Management System using OOP concepts like inheritance, encapsulation, and abstraction.
 It lets users add and view student details interactively from the command line.
